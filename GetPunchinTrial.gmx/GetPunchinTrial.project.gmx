@@ -53,6 +53,7 @@
     <object>objects\obj_shooter</object>
     <object>objects\obj_bullet</object>
     <object>objects\obj_runner</object>
+    <object>objects\obj_bounced</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\TheRoom</room>
