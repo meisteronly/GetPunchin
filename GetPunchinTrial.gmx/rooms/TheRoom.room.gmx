@@ -173,6 +173,7 @@
     <instance objName="obj_runner" x="320" y="192" name="inst_871A1935" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_runner" x="576" y="352" name="inst_C8DA0D0C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_runner" x="576" y="480" name="inst_B402E9AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_shooter" x="576" y="160" name="inst_3641B6B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
