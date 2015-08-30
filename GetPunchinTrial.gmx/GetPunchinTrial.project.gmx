@@ -16,6 +16,7 @@
     <sprite>sprites\sp_block</sprite>
     <sprite>sprites\sp_hole</sprite>
     <sprite>sprites\sp_hook</sprite>
+    <sprite>sprites\sp_shooter</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -30,11 +31,9 @@
     <script>scripts\script0.gml</script>
   </scripts>
   <objects name="objects">
-    <object>objects\pnch_rt</object>
     <object>objects\obj_wall</object>
     <object>objects\obj_punched</object>
     <object>objects\object3</object>
-    <object>objects\obj_puncher</object>
     <object>objects\obj_slidepunch</object>
     <object>objects\obj_fist</object>
     <object>objects\obj_slide_pos_y</object>
@@ -51,6 +50,10 @@
     <object>objects\obj_righthook2</object>
     <object>objects\obj_righthook3</object>
     <object>objects\obj_righthook4</object>
+    <object>objects\obj_shooter</object>
+    <object>objects\obj_bullet</object>
+    <object>objects\obj_runner</object>
+    <object>objects\obj_bounced</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\TheRoom</room>
