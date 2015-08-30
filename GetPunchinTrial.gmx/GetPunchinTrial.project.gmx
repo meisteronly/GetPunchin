@@ -22,10 +22,14 @@
     <background>background\background0</background>
   </backgrounds>
   <paths name="paths">
-    <path>paths\hookpath1</path>
-    <path>paths\hookpath2</path>
-    <path>paths\hookpath3</path>
-    <path>paths\hookpath4</path>
+    <path>paths\righthookpath1</path>
+    <path>paths\lefthookpath1</path>
+    <path>paths\righthookpath2</path>
+    <path>paths\lefthookpath2</path>
+    <path>paths\righthookpath3</path>
+    <path>paths\lefthookpath3</path>
+    <path>paths\righthookpath4</path>
+    <path>paths\lefthookpath4</path>
   </paths>
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
@@ -47,9 +51,13 @@
     <object>objects\obj_hole_ob</object>
     <object>objects\obj_control</object>
     <object>objects\obj_righthook1</object>
+    <object>objects\obj_lefthook1</object>
     <object>objects\obj_righthook2</object>
+    <object>objects\obj_lefthook2</object>
     <object>objects\obj_righthook3</object>
+    <object>objects\obj_lefthook3</object>
     <object>objects\obj_righthook4</object>
+    <object>objects\obj_lefthook4</object>
     <object>objects\obj_shooter</object>
     <object>objects\obj_bullet</object>
     <object>objects\obj_runner</object>
