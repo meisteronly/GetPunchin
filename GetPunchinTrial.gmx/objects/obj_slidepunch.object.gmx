@@ -149,6 +149,30 @@
           </argument>
         </arguments>
       </action>
+      <action>
+        <libid>1</libid>
+        <id>611</id>
+        <kind>6</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>player_face</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
+          </argument>
+        </arguments>
+      </action>
     </event>
     <event eventtype="1" enumb="0">
       <action>
@@ -444,6 +468,30 @@ if immunity = 0
           </argument>
         </arguments>
       </action>
+      <action>
+        <libid>1</libid>
+        <id>611</id>
+        <kind>6</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>-1</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>player_face</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>direction</string>
+          </argument>
+        </arguments>
+      </action>
     </event>
     <event eventtype="5" enumb="39">
       <action>
@@ -519,6 +567,30 @@ if immunity = 0
           <argument>
             <kind>0</kind>
             <string>8</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>611</id>
+        <kind>6</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>-1</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>player_face</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>direction</string>
           </argument>
         </arguments>
       </action>
@@ -600,6 +672,30 @@ if immunity = 0
           </argument>
         </arguments>
       </action>
+      <action>
+        <libid>1</libid>
+        <id>611</id>
+        <kind>6</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>-1</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>player_face</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>direction</string>
+          </argument>
+        </arguments>
+      </action>
     </event>
     <event eventtype="5" enumb="37">
       <action>
@@ -675,6 +771,30 @@ if immunity = 0
           <argument>
             <kind>0</kind>
             <string>8</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>611</id>
+        <kind>6</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>-1</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>player_face</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>direction</string>
           </argument>
         </arguments>
       </action>
@@ -1226,7 +1346,7 @@ if immunity = 0
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>5</string>
+            <string>1.5</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -1334,7 +1454,7 @@ if immunity = 0
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>5</string>
+            <string>1.5</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -1442,7 +1562,7 @@ if immunity = 0
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>5</string>
+            <string>1.5</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -1550,7 +1670,7 @@ if immunity = 0
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>5</string>
+            <string>1.5</string>
           </argument>
           <argument>
             <kind>4</kind>
