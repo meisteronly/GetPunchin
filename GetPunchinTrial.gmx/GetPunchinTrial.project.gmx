@@ -54,6 +54,9 @@
     <object>objects\obj_bullet</object>
     <object>objects\obj_runner</object>
     <object>objects\obj_bounced</object>
+    <object>objects\obj_attack_parent</object>
+    <object>objects\obj_jab_parent</object>
+    <object>objects\obj_hook_parent</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\TheRoom</room>
